@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on Machine learning and image processing projects
 - 🤔 I’m looking for help with Machine learning model tuning and optimization
 - 💬 Ask me about Web development, python, javascript, nodejs, MEAN Stack , ASP.NET and .NET Core
-- 📫 How to reach me: ...
+- 📫 How to reach me: joel.tiogo@expotechindustries.com / @joel1208199
 - 😄 Pronouns: Joel
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a secret gamer who actually plays occasionally
