@@ -1,11 +1,10 @@
 ### Hi there 👋
-- 🔭 I am currently heading Expotech Industries where I am trying to build cool things.
-- 🔭 I’m training young CS graduates through a bootcamp on web and data structure. 
-- 🔭 I'm participating in the Beterlsman Tensorflow Machine Learning Scholarship on Udacity
-- 🌱 I’m currently a Machine Learning and Computer Vision Master student at the University of Johannesburg
-- 👯 I’m looking to collaborate on Machine learning and image processing projects
+- 🔭 I am working on https://www.expotechindustries.com.
+- 🔭 I’m training young graduates through software dev bootcamp. 
+- 🌱 I’m part-time Master student at https://www.uj.ac.za
+- 👯 I’m looking to collaborate on ML and image processing projects
 - 🤔 I’m looking for help with Machine learning model tuning and optimization
-- 💬 Ask me about Web development, python, Machine Learning, Computer Vision, Image Processing, javascript, nodejs, MEAN Stack , ASP.NET and .NET Core
-- 📫 How to reach me: joel.tiogo@expotechindustries.com / @joel1208199
+- 💬 Ask me about Web development, Machine Learning, Computer Vision.
+- 📫 How to reach me: @joel1208199
 - 😄 Pronouns: Joel
-- ⚡ Fun fact: I am a secret gamer who actually plays occasionally especially chess and PS5.
+- ⚡ Fun fact: I am a secret gamer.
