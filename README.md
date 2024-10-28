@@ -1,7 +1,6 @@
 ### Hi there 👋
-🔭 I am  ex founder and of Expotech Industries.
-- 👯 I am interested in Sustainable tech solutions.
-- 🤔 I’m looking to learn more about AI, software architecture, Consulting, and life. 
+- 👯 I am interested in data science.
+- 🤔 I’m looking to learn more about AI, MLOps, Data-driven decision making. 
 - 💬 Ask me about Code, Sustainability, AI and Startup.
 - 📫 How to reach me: https://www.linkedin.com/in/joeltiogo
 - 😄 Pronouns: Jo-el
